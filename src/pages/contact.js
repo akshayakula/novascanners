@@ -72,7 +72,7 @@ const Contact = () => {
                           Email us
                         </h4>
                         <a
-                          className="font-size-6 font-weight-bold heading-default-color"
+                          className="font-size-5 font-weight-bold heading-default-color"
                           href="mailto: contact@novascanners.com"
                         >
                           contact@novascanners.com
