@@ -23,7 +23,7 @@ const Home2 = () => {
           headerButton: (
             <>
                 <Link to={"/contact"} className="btn btn btn-blue-3 header-btn-2 font-size-3 rounded-5">
-                  Schecule a scan
+                  Schedule a scan
                 </Link>
             </>
           ),
