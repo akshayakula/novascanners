@@ -75,7 +75,7 @@ const Contact = () => {
                           className="font-size-7 font-weight-bold heading-default-color"
                           href="/#"
                         >
-                          contact@Novascanners.com
+                          help@novascanners.com
                         </a>
                       </div>
                     </div>
