@@ -75,7 +75,7 @@ const Contact = () => {
                           className="font-size-7 font-weight-bold heading-default-color"
                           href="/#"
                         >
-                          akshayakula@vt.edu
+                          contact@Novascanners.com
                         </a>
                       </div>
                     </div>
