@@ -2,7 +2,7 @@ import React from "react";
 
 import imgA1 from "../../assets/image/home-2/png/arrow-1.png";
 import imgA2 from "../../assets/image/home-2/png/arrow-2.png";
-import imgS from "../../assets/image/home-2/png/sfHouse.png";
+import imgS from "../../assets/image/home-2/png/sfhouse.png";
 import imgE from "../../assets/image/home-2/png/event-confirm.png";
 import imgR from "../../assets/image/home-2/png/right-layer.png";
 
