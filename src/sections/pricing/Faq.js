@@ -57,7 +57,7 @@ const Faq = () => {
                   How will I communicate with you?
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-                  We will organize all appointments by e-mail(or text if preffered). Our staff will respond to all requests within 30 minutes
+                  We will organize all appointments by e-mail(or text if preferred). Our staff will respond to all requests within 30 minutes
                   and 16 hours at the absolute longest.
                 </p>
               </div>
