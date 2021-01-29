@@ -55,17 +55,16 @@ const Content = () => {
               data-aos-duration={600}
             >
               <p className="heading-default-color font-size-6 mb-4 mb-lg-9">
-                Real Estate is the most ancient industry. From Babylon to New York, the one constant is an ever growing
-                housing market. Its our goal at Nova Scanners to enable the homes in Northern Virginia to adopt technology
-                that will revolutionize the industry.
+                It our goal at Novascanners to help your display your home in its truest form. We believe the virtual is unmatched
+                in doing this, and would love to bring it to your property.
               </p>
               <p className="heading-default-color font-size-6 mb-5 mb-lg-13">
-                Using our state of the art 3D-scans gives properties the ability to sell themselves. People are able to fall
+                Using our state-of-the-art 3D-scans gives properties the ability to sell themselves. People are able to fall
                 in love with a property's energy before ever setting foot inside.{" "}
               </p>
               <div className="">
                 <p className="font-size-3 line-height-20 mb-7 mr-xs-17 mr-md-11 mr-lg-18 mr-xl-20">
-                  “People are always adapting, and crisis can be the strongest catalyst for positive change”
+                  “I love capturing the spirit of a home, and seeing the effect it has on future home owners”
                 </p>
                 <h6 className="font-size-3 font-weight-medium">
                   Akshay Akula, Founder of Nova Scanners
